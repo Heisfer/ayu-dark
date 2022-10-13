@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.heisfer.ayudark.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.heisfer.ayudark.MyBundle
 
 class MyApplicationService {
 
